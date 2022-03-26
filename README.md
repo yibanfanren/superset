@@ -1,2 +1,6 @@
 # superset
-v1.3.1    node-v: 15.10.0     npm-v:7.5.3
+v1.3.1    
+
+node: 15.10.0    
+
+npm:7.5.3
